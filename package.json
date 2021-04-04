@@ -1,0 +1,8 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/siptn7526/typechain",
+  "author": "hanyoung choi <siptn7526@naver.com>",
+  "license": "MIT"
+}
